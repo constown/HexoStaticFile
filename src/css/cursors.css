@@ -1,0 +1,10 @@
+/* 鼠标样式 */
+body {
+  cursor: url(https://cdn.jsdelivr.net/gh/constown/HexoCustomFile/public/cursors/default.cur),
+    default;
+}
+a,
+img {
+  cursor: url(https://cdn.jsdelivr.net/gh/constown/HexoCustomFile/public/cursors/pointer.cur),
+    default;
+}

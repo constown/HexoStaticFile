@@ -1,0 +1,19 @@
+/* 代码块MAC风格美化 */
+#article-container figure.highlight,#article-container pre{
+  color:#f8f8f2;
+  background:#696969
+}
+
+#article-container figure.highlight .highlight-tools{
+  background:#3f3f3f;
+  color:#fff
+}
+
+#article-container figure.highlight .gutter pre{
+  color:#d3d3d3;
+  background:grey
+}
+
+#article-container figure.highlight figcaption a{
+  color:#a9a9a9 !important
+}
